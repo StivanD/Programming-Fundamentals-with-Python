@@ -1,6 +1,6 @@
 # Programming-Fundamentals-with-Python
 
-Here are solutions of all exercises from **Programming Fundamentals with Python** - a course by **Softuni** (Software University)
+Here are the solutions of all exercises from **Programming Fundamentals with Python** - a course by **Softuni** (Software University)
 
 SoftUni - https://softuni.bg/
 
