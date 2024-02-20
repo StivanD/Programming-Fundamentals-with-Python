@@ -1,4 +1,4 @@
-# Programming-Basics-with-Python
+# Programming-Fundamentals-with-Python
 
 Here are solutions of all exercises from Programming Fundamentals with Python - a course by Softuni (Software University)
 
